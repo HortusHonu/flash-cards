@@ -128,3 +128,70 @@ A sensor converts focused light from the lens into electrical signals for proces
 
 ---  
 
+## Filter  
+
+A filter is a device placed in front of the lens to enhance image quality, improve contrast, reduce glare, and isolate specific wavelengths of light to emphasize certain features of the object being imaged.  
+
+---  
+
+## Field of View  
+
+Field of view is the obserable area by system measured in millimeters (width x height)  
+
+---  
+
+## Angular Field of View  
+
+The angular extent of the observable scene that a camera can capture, measured in degrees.
+
+---  
+
+## Working Distance  
+
+Working distance is the distance between the front of the camera lens and the object being imaged; determined by angular field of view  
+
+---  
+
+## PMAG (Primary magnification)  
+
+PMAG is the degree if magnification and angular field of view stated in millimeters  
+
+---  
+
+## Exposure  
+
+Exposure is the controlled amount of light let into a sensor over a period of time  
+
+---  
+
+## Entocentric Lenses  
+
+Entocentric (endocentric) lenses have perspective with wide angles and shorter working distances with less distortion (fixed focal length; prime)  
+
+---  
+
+## Telecentric Lenses  
+
+Telecentric lenses have a perpendicular view with almost no angle or perspective
+
+---  
+
+## Collimated Light  
+
+Collimated light are rays of light (particles) that are made to be accurately parallel
+
+---  
+
+## Angle of Incidence  
+
+Angle of incidence is the angle that light rays contact a surface relative to the normal perpendicular point  
+
+---  
+
+## Use a lens calculator  
+
+Use a lens calculator to get close and check your work  
+
+---  
+
+

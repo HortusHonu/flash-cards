@@ -104,3 +104,27 @@ Resolution and contrast are determined by sensor size in pixels and quality of o
 
 ---  
 
+## Imaging Devices and Components  
+
+Names and descriptions of system devices and componenets  
+
+---  
+
+## Camera  
+
+A camera is a physical device that houses imaging components and mounting hardware that convert captured energy into numeric representation   
+
+---  
+
+## Lens  
+
+A lens determines what the camera "sees" in the real world, provides maginification of a scene,and focuses the collected light onto a sensor
+
+---  
+
+## Sensor  
+
+A sensor converts focused light from the lens into electrical signals for processing  
+
+---  
+

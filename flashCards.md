@@ -48,11 +48,9 @@ Contrast is measured by determining the distace between black and white
 
 ---  
 
-How is Resolution Measured?
-
+## How is Resolution Measured?
 
 Resolution is typically quantified in pixels per unit distance (e.g., pixels per millimeter)   
-
 
 ---  
 
@@ -188,10 +186,58 @@ Angle of incidence is the angle that light rays contact a surface relative to th
 
 ---  
 
+## Lens Resolution  
+
+Lens resolution is what size pixel can the lens resolve  
+
+---  
+
 ## Use a lens calculator  
 
 Use a lens calculator to get close and check your work  
 
 ---  
 
+## Spatial Resolution  
+
+The ability of an imaging system to distinguish between objects or details that are close together  
+
+---  
+
+## Image Resolution  
+
+Image resolution is the number of pixels in an image, usually expressed as width × height<br> (e.g., 1920×1080 pixels)  
+
+---  
+
+## Pixel Spatial Resololution  
+
+Pixel spatial resolution is the number of pixels within a specific area of a sensor, sometimes expressed in pixels per inch (PPI) or PPM<br>  
+
+---  
+
+## Pixel Spatial Resolution Cont.  
+
+FOV / Image Resolution<br>  
+height or width / height or width  
+
+---  
+
+## Line Pairs Per Millimeter  
+
+Line pairs per millimeter determine the image space resolution in "frequency" (how often) of contrasting pixels  
+
+---  
+
+## Spatial Resolution Consideration  
+
+Spatial resolution takes the average of the two dimensions if they are drastically different  
+
+---  
+
+## Imaging Angle **IS** Perspective  
+
+Imaging angle is the angle formed between the lens and the surface it is pointed at  
+
+---  
 

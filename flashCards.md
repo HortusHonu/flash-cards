@@ -134,7 +134,8 @@ A filter is a device placed in front of the lens to enhance image quality, impro
 
 ## Field of View  
 
-Field of view is the obserable area by system measured in millimeters (width x height)  
+Field of view is the obserable area by system measured in millimeters (width x height)<br>  
+The viewable area of and around the object of inspection  
 
 ---  
 
@@ -147,6 +148,12 @@ The angular extent of the observable scene that a camera can capture, measured i
 ## Working Distance  
 
 Working distance is the distance between the front of the camera lens and the object being imaged; determined by angular field of view  
+
+---  
+
+## Focal Length  
+
+Focal Length is the distance between the lens's center and the image sensor usually measured in millimeters  
 
 ---  
 
@@ -229,6 +236,12 @@ Line pairs per millimeter determine the image space resolution in "frequency" (h
 
 ---  
 
+## Spatial Frequency  
+
+Spatial prequency includes cycles per millimeter and pixel size  
+
+---  
+
 ## Spatial Resolution Consideration  
 
 Spatial resolution takes the average of the two dimensions if they are drastically different  
@@ -241,3 +254,73 @@ Imaging angle is the angle formed between the lens and the surface it is pointed
 
 ---  
 
+## Pixel Size Calculation  
+
+10 micron = 50 line pairs per millimeter<br>  
+5 micron = 100 line pairs per millimeter<br>  
+Pixel size = 500 / frequency  
+
+---  
+
+## Good MTF is Unique  
+
+*Good* MTF is application specific and dependant  
+
+---  
+
+## What Affects MTF?  
+
+- abberations  
+- working distance  
+- wave length  
+- F# (f-stop)  
+
+---  
+
+## Aberration  
+
+Abberation is deviation from the expected or ideal image due to imperfections in the **system**  
+
+---  
+
+## Working Distance  
+
+Working distance is the distance from the front of the lens to the object  
+
+---  
+
+## Wavelength  
+
+The portion of the electromagnetic spectrum that is visible to the image system  
+
+---  
+
+## F# (f-stop)  
+
+F# (f-stop) is the ratio of the focal length to the diameter of the lens opening  
+
+---  
+
+## Diffraction Limit  
+
+Diffraction limit is the line of perfect lens performance  
+
+---  
+
+## Relative Illumination  
+
+Relative illumination is the brightness of a lens fromt the center to a corner relative to the brightest spot in the image  
+
+---  
+
+## Smaller Pixels = Higher Resolution  
+
+More smaller pixels fit into a space then larger pixels  
+
+---  
+
+## Limiting Contrast for Machines  
+
+Limiting contrast for machines is 10% - 20%  
+
+---  

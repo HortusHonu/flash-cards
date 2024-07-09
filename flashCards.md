@@ -308,6 +308,14 @@ The portion of the electromagnetic spectrum that is visible to the image system
 
 ---  
 
+## Near Infra-red  
+
+- short, mid, and long wave  
+- near-IR, short-wave IR, mid-wave IR, long-wave IR  
+- 0.7nm, 1nm, 3nm, 8-14nm  
+
+---  
+
 ## F# (f-stop)  
 
 F# (f-stop) is the ratio of the focal length to the diameter of the lens opening  
@@ -499,6 +507,21 @@ The size of the camera sensor's active area specified in fractions of an inch
 
 ---  
 
+## Sensor Size Explanation  
+
+The fractional inch size does not directly represent the actual dimensions of the sensor<br>  
+Instead, it refers to an old video camera tube standard where the specified size was the outer diameter of the tube, not the imaging area itself.  
+
+---  
+
+## Sensor Size Explanation Cont.  
+
+The actual dimensions of a sensor (width, height, and diagonal) are smaller than the size indicated by the fraction<br>  
+
+For example, a 1/3" sensor typically measures about 4.8mm diagonally  
+
+---  
+
 ## Sensor Technologies  
 
 Different sensor technologies require different wavelengths  
@@ -591,3 +614,51 @@ Don't know what size imager you need?<br>
 $sensor\ size = \frac{FOV}{mm/px}$
 
 ---  
+
+## Additional Notes:
+
+Resolution and contrast are key in any given specific application  
+
+---  
+
+Light works one way and it always will obey the laws of physics  
+
+---  
+
+Configurability can sacrifice capability  
+
+---  
+
+## LED Light is BEST  
+
+---  
+
+## Line Scan Sensor  
+
+A line scan sensor is an output of a single line whili in motion<br>  
+See also, "sheet of light triangulation"
+
+---  
+
+## Horizontal Direction  
+
+The horizontal direction is the longest direction and is often more relevant; even if the diagonal is specified  
+
+---  
+
+## Integration  
+
+- preperation  
+- design  
+- implemetation  
+- deployment and validation  
+
+---  
+
+## Vision Integration Process  
+
+- specify hardware and determine software  
+- define process logic, I/O, and comms  
+- operator interfacing considerations  
+- be careful of standardization  
+- **specific is better**  

@@ -5,6 +5,7 @@ size: 16:9
 class: invert
 backgroundColor: #151515
 color: #898989
+math: mathjax
 ---
 
 # Machine Vision
@@ -533,5 +534,60 @@ Relative illumination in optical systems and machine vision describes how the in
 ## Relative Ilumintation Cont.  
 - compact lenses have better relative illumination  
 - Higher resolution lenes have better relative illumination  
+
+---  
+
+## Cornerstones of Illumination  
+
+- Geometry  
+- Structure  
+- Color  
+
+---  
+
+## Geometry  
+
+Geometry plays a critical role in machine vision systems as it underpins the accurate capture, analysis, and interpretation of visual data  
+
+---  
+
+## Structure  
+
+Structure refers to the organized and systematic arrangement of various components and processes in a vision system  
+
+---  
+
+## Color  
+
+Color variations can indicate defects or inconsistencies in products by using color analysis and to create contrast  
+
+---  
+
+## Fundamental Capability  
+
+Fundamental capability is a numeric value relative to the EM enery (electro-magnetic) contained in pixels  
+
+---  
+
+## Fundamental Parameters  
+
+- sensor size  
+- camera  
+- working distance (WD)  
+- FOV and DOF  
+- resolution and contrast  
+
+---  
+
+## Image Calculator Consideration  
+
+The smaller the focal length, the less accurate a calculator wil be  
+
+---  
+
+## What Size Imager?
+
+Don't know what size imager you need?<br>  
+$sensor\ size = \frac{FOV}{mm/px}$
 
 ---  

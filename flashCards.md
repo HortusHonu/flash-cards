@@ -324,3 +324,106 @@ More smaller pixels fit into a space then larger pixels
 Limiting contrast for machines is 10% - 20%  
 
 ---  
+
+## Create Contrast  
+
+When you want to create contrast, think of the color that is not the color you want to contrast  
+
+---  
+
+##  How Do Image systems see light?  
+
+Image systems, cameras and sensors, all capture light in photons at a wavelength  
+
+---  
+
+## Visible Light Sprectrum  
+
+400nm - 750nm<br>  
+(380nm-740nm)  
+
+---  
+
+## Optical Spectrum for Machines  
+
+300nm - 3000nm  
+
+---  
+
+## Near-Infrared  
+
+700nm - 1000nm  
+
+---  
+
+## What is light?  
+
+Light is electro-magnetic (EM) energy of transverse waves and photons  
+
+---  
+
+## Grayscale  
+
+Basic image format<br>  
+255 = pure white and 0 = black<br>  
+### **0 = no data**  
+
+---  
+
+## Filters in Machine Vision  
+
+Filters in machine vision  are optical components, usually lens covers that selectively transmit or block specific wavelengths, spectrums, or ranges of wavelengths of light
+
+---  
+
+## Bayer Filter  
+
+ A color filter array for arranging RGB color filters on a square grid of photosensors  
+
+ ---  
+
+ ## What do Bayer Filters do?
+
+ Bayer filters sample single colors from each pixel, deriving color values from neighboring pixels  
+
+ ---  
+
+ ## Bayer Filters Will Reduce Resolution  
+
+ Bayer filters will reduce resolution because neighboring pixels are processed and combined  
+
+ ---  
+
+ ## A Filter's Color  
+
+ A filter's color lets that *color* pass through to the lens and it appears lighter in contrast to non-filtered *colors*  
+
+ ---  
+
+ ## Color Filter Example  
+
+ Red light with a red bandpass filter removes all of the other wavelengths (colors) a the *red* color appears brigther in contrast  
+
+ ---  
+
+## Bayer Filtering is Most Popular  
+
+Bayer filtering is the most popular because of it's use processed into RGB  
+
+---  
+
+## What is Opaque?  
+
+Opaque is a material's ability to block light<br>  
+No object is technically opaque, but *maybe* opaque to a particular spectrum  
+
+---  
+
+## The Color Wheel  
+
+Insert an image of a color wheel  
+*Red and Green* are compliments<br>  
+*Orange and Blue* are compliments<br>  
+*Yellow and Violet* are compliments  
+
+---  

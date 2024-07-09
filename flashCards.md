@@ -132,6 +132,12 @@ A filter is a device placed in front of the lens to enhance image quality, impro
 
 ---  
 
+## Application Software  
+
+Aplication software is tightly linked to the hardware components and varies with real-world applications  
+
+---  
+
 ## Field of View  
 
 Field of view is the obserable area by system measured in millimeters (width x height)<br>  
@@ -160,6 +166,12 @@ Focal Length is the distance between the lens's center and the image sensor usua
 ## PMAG (Primary magnification)  
 
 PMAG is the degree if magnification and angular field of view stated in millimeters  
+
+---  
+
+## PMAG Usage  
+
+Microscopes and telecentric lenses are always described with PMAG  
 
 ---  
 
@@ -370,6 +382,12 @@ Basic image format<br>
 
 ---  
 
+## 254 > 255  
+
+254 is better than 255 (pure white) because 255 could "wash out" or "cover up" missing necessary data  
+
+---  
+
 ## Filters in Machine Vision  
 
 Filters in machine vision  are optical components, usually lens covers that selectively transmit or block specific wavelengths, spectrums, or ranges of wavelengths of light
@@ -425,5 +443,95 @@ Insert an image of a color wheel
 *Red and Green* are compliments<br>  
 *Orange and Blue* are compliments<br>  
 *Yellow and Violet* are compliments  
+
+---  
+
+## Image Quailty Key Points  
+
+- resolution  
+- contrast  
+- depth of field  
+- perspective  
+- distortion  
+
+---  
+
+## Resolution  
+
+Resuloution is the minumum feature size of the object  
+
+---  
+
+## Contrast  
+
+Contrast is the difference in brightness that makes an object distinguishable from other objects *and* the background.
+
+---  
+
+## Depth of Field  
+
+Depth of Field is the maximum object depth that can be maintained entirely in focus  
+
+---  
+
+## Perspective  
+
+Perspective refers to the way objects appear smaller as they get further from the viewer, creating a sense of depth and spatial relationships in a two-dimensional image, influenced by the focal length of the lens and the position of the cameras.  
+
+---  
+
+## Distortion  
+
+Distortion refers to the deviation from the rectilinear projection, causing straight lines to appear curved or otherwise altered, resulting in a misrepresentation of the true shape of objects within the image.
+
+---  
+
+## Sensor Selection  
+
+The size of the sensor and the sensor format are critical to sensor selection  
+
+---  
+
+##  Sensor Size  
+
+The size of the camera sensor's active area specified in fractions of an inch  
+
+---  
+
+## Sensor Technologies  
+
+Different sensor technologies require different wavelengths  
+
+---  
+
+## Light Energy  
+
+Light energy is a form of electromagnetic energy that travels in waves. And is essential for illuminating objects so that they can be imaged by a camera sensor  
+
+---  
+
+## Correct Lighting  
+
+Correct lighting must be repeatable relative to a background and overcome object variations  
+
+---  
+
+## Illumination "W"  
+
+Insert an image of an illumination "W"<br>  
+Light that reflects in a "W" and "V" pattern from the source into the camera<br>  
+light will nly deliver it's specular reflection back to the camera  
+
+---  
+
+## Relative Illumination  
+
+Relative illumination in optical systems and machine vision describes how the intensity of light varies across the image sensor
+
+---  
+
+## Relative Ilumintation Cont.  
+- compact lenses have better relative illumination  
+- Higher resolution lenes have better relative illumination  
 
 ---  
